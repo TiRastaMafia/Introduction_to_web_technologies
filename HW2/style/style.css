@@ -1,0 +1,30 @@
+.img-div {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.breakpoint {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  h1 { 
+      text-align: center;
+}
+h2 { 
+      text-indent: 25px; 
+      text-align: justify;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: rgb(177, 171, 164);
+}
+
+a:hover{
+    color: rgb(243, 6, 6);
+}
+
+a {
+    color: green;
+}
